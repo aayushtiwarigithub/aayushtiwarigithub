@@ -1,5 +1,9 @@
 # Ayush Tiwari
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtiwari247&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtiwari247" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushtiwari247" alt="ayushtiwari247" /></a> </p> -->
+
 [![Website](https://img.shields.io/website?label=ayushtiwari.info&style=for-the-badge&url=https%3A%2F%2Fayushtiwari.info)](https://ayushtiwari.info)
 [![LeetCode user ayush_tiwari](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fayush_tiwari&logo=leetcode&logoColor=yellow)](https://leetcode.com/ayush_tiwari/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_tiwariayush?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_tiwariayush&screen_name=_tiwariayush)
@@ -23,7 +27,7 @@
 &nbsp;&nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-@_tiwariayush-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_tiwariayush)][twitter]
 &nbsp;&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/ayushtiwari%5F3-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/ayushtiwari_3)][instagram]
+[![Instagram Badge](https://img.shields.io/badge/ayushtiwari-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/ayushtiwari_3)][instagram]
 &nbsp;&nbsp;
 [![Outlook Badge](https://img.shields.io/badge/ayush%E2%80%93tiwari%40outlook.com-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white&link=mailto:ayush-tiwari@outlook.com)](mailto:ayush-tiwari@outlook.com)
 &nbsp;&nbsp;
@@ -84,11 +88,11 @@
 ---
 
 
-![aayushtiwarigithub's Stats](https://github-readme-stats.vercel.app/api?username=aayushtiwarigithub&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![ayushtiwari247's Stats](https://github-readme-stats.vercel.app/api?username=ayushtiwari247&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 <br />
-![aayushtiwarigithub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aayushtiwarigithub&theme=tokyonight&hide_border=true)
+![ayushtiwari247's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushtiwari247&theme=tokyonight&hide_border=true)
 <br />
-![aayushtiwarigithub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushtiwarigithub&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![ayushtiwari247's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtiwari247&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <br />
 
 [website]: https://ayushtiwari.info
